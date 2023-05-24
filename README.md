@@ -4,7 +4,7 @@
 👨‍💻 my portfolio site mattwyd.ca
 
 <p align="center">
-⚡ fun fact I starting coding to finally beat my brother at video games
+⚡ fun fact I started coding to finally beat my brother at video games
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
