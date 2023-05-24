@@ -2,11 +2,11 @@
 <h3 align="center">a newly graduated software developer looking for interesting challenges</h3>
 <p align="center">
 
-- 🔭 i’m currently working on [kiji listing alerts](https://github.com/mattwyd/kla)
+          - 🔭 i’m currently working on [kiji listing alerts](https://github.com/mattwyd/kla)
 
-- 👨‍💻 my portfolio site [mattwyd.ca](mattwyd.ca)
+          - 👨‍💻 my portfolio site [mattwyd.ca](mattwyd.ca)
 
-- ⚡ fun fact I starting coding to finally beat my brother at video games
+          - ⚡ fun fact I starting coding to finally beat my brother at video games
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
