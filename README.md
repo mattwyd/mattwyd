@@ -4,7 +4,8 @@
 👨‍💻 my portfolio site mattwyd.ca
 
 <p align="center">
- ⚡ fun fact The first website ever is still online info.cern.ch/hypertext/WWW/TheProject.html
+ ⚡ fun fact The first website ever is still online 
+ (here)<info.cern.ch/hypertext/WWW/TheProject.html>
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
