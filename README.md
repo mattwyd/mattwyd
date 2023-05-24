@@ -1,14 +1,11 @@
 <h1 align="center">hi, i'm matt</h1>
 <h3 align="center">a newly graduated software developer looking for interesting challenges</h3>
 <p align="center">
+👨‍💻 my portfolio site mattwyd.ca
 
-          - 🔭 i’m currently working on [kiji listing alerts](https://github.com/mattwyd/kla)
-
-          - 👨‍💻 my portfolio site [mattwyd.ca](mattwyd.ca)
-
-          - ⚡ fun fact I starting coding to finally beat my brother at video games
-</p>
-
+<p align="center">
+⚡ fun fact I starting coding to finally beat my brother at video games
+<br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
