@@ -1,12 +1,19 @@
-<h1 align="center">hi, i'm matt :D</h1>
+<h1 align="center">hi,👋 i'm matt </h1>
 <h3 align="center">a newly graduated software developer looking for interesting challenges</h3>
-<p align="center">
-👨‍💻 my portfolio site mattwyd.ca
 
-<p align="center">
- ⚡ fun fact The first website ever is still online 
- (here)<info.cern.ch/hypertext/WWW/TheProject.html>
-<br>
+
+<div align="center" >
+
+ 👨‍💻 my portfolio site [mattwyd.ca](http://www.mattwyd.ca)
+ 
+</div>
+
+<div align="center">
+
+⚡ fun fact: the first website ever is still [online](http://info.cern.ch/hypertext/WWW/TheProject.html)
+
+</div>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -36,3 +43,6 @@
 <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
 </p>
+
+
+
