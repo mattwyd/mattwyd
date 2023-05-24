@@ -4,7 +4,7 @@
 👨‍💻 my portfolio site mattwyd.ca
 
 <p align="center">
-⚡ fun fact I started coding to finally beat my brother at video games
+⚡ fun fact The first website ever is still online. Tim Berners-Lee created the first website in 1991, and it is still accessible today at its original URL: http://info.cern.ch/hypertext/WWW/TheProject.html.
 <br>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
