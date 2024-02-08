@@ -1,11 +1,4 @@
 <h1 align="center">i'm matt </h1>
-<h3 align="center">a newly graduated software developer looking for interesting challenges</h3>
-
-
-<div align="center" >
-
- 👨‍💻 my portfolio site [mattwyd.ca](http://www.mattwyd.ca)
- 
 </div>
 
 <div align="center">
